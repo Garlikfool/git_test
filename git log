@@ -1,0 +1,17 @@
+[33mcommit d6473909961ef75255eb25dd98f28edc07911dbf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Afanasii Shishebarov <46094806+Garlikfool@users.noreply.github.com>
+Date:   Thu Feb 19 21:43:56 2026 +0100
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 502fdefbe0f426983047fb99caaa7749de99aebb[m
+Author: Afanasii Shishebarov <46094806+Garlikfool@users.noreply.github.com>
+Date:   Thu Feb 19 21:37:33 2026 +0100
+
+    Add hello_world.txt
+
+[33mcommit e6186890f58517fc4817518cf3f709a2a4092bda[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Afanasii Shishebarov <46094806+Garlikfool@users.noreply.github.com>
+Date:   Thu Feb 19 21:31:15 2026 +0100
+
+    Initial commit
